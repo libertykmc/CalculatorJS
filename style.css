@@ -26,9 +26,9 @@ flex-wrap: wrap;
     justify-content: center;
     width:70px;
     height:60px;
-    background-color: #1f2326;
+    background-color: #ff0090;
     color: #f8fcff;
-    border: 1px solid #2d3134;
+    border: 1px solid #4a494a;
     cursor:pointer;
 }
 
@@ -41,23 +41,12 @@ flex-wrap: wrap;
 width:142px;
 }
 
-.calculator_button-purple {
-    background-color: #5f4ab6;
-    border: 1px solid #6A56C0;
-
-}
-
-.calculator_button-orange {
-background-color: #ffc207;
-border: 1px solid #ffc207;
-color: #1f2326;
-}
-
 .calculator_panel {
     height: 100px;
     text-align: right;
     padding:20px;
     position:relative;
+    color:#ff0090;
 }
 
 .calculator_panel-result {
