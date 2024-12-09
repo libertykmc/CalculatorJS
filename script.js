@@ -29,9 +29,6 @@ else if (button.classList.contains("number")) {
     operator = buttonValue;
 } else if (buttonValue === "=") {
 
-    if (calculatorMathLine.textContent === "13102004") {calculatorResult.textContent = "Я люблю тебя"}
-
-
     if (secondNumber.length === 0) {return}
 
 
